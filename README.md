@@ -1,2 +1,1 @@
-# LuceneWrapper
-Professional LuceneWrapper lucenewrapper-engine with LuceneWrapper-optimized lucenewrapper-optimization and enterprise scalable-architecture capabilities
+.
